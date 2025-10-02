@@ -1,3 +1,4 @@
 ADD new text
 some text
 Ще один рядок
+Ще один рядок
