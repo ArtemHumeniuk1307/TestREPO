@@ -1,1 +1,2 @@
-Some text
+ADD new text
+some text
