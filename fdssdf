@@ -1,0 +1,47 @@
+[33mcommit 889d52ca933aae813403659410d3abd1a4a06498[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: Test <Temail>
+Date:   Tue Oct 7 15:08:27 2025 +0300
+
+    зміна файлу на гілці dev
+
+[33mcommit 36e4e2045c8dfc7c821993f25d2cb8c540fc8a17[m[33m ([m[1;32mnewBranch[m[33m, [m[1;32mmops[m[33m, [m[1;32mmaster[m[33m, [m[1;32mf3[m[33m, [m[1;32mf2[m[33m, [m[1;32mf1[m[33m)[m
+Author: Test <Temail>
+Date:   Mon Oct 6 19:03:39 2025 +0300
+
+    Зберігаю тимчасові щміги перед revert
+
+[33mcommit b1737f9510df6fc18627026692d090fa71c81101[m
+Author: Test <Temail>
+Date:   Mon Oct 6 18:28:04 2025 +0300
+
+    Хибний коміт
+
+[33mcommit e204977f761f3ce133a5316e0d7a4da44ec76a4a[m
+Author: Test <Temail>
+Date:   Thu Oct 2 18:30:54 2025 +0300
+
+    .
+
+[33mcommit 6ed490d15ed9a2078556e57960de8866ef6552d4[m
+Author: Test <Temail>
+Date:   Thu Oct 2 18:25:04 2025 +0300
+
+    Четвертий коміт
+
+[33mcommit 377219464be53571e6d63e6c50c32585479cc794[m
+Author: Test <Temail>
+Date:   Thu Oct 2 18:21:15 2025 +0300
+
+    Третій коміт
+
+[33mcommit 882de94d660d855495bd5272ad81f3011f7ab1c3[m
+Author: Test <Temail>
+Date:   Thu Oct 2 18:01:28 2025 +0300
+
+    Другий коміт
+
+[33mcommit 1837f588ec43acbe99dbba29c187c5e8be6de9bc[m
+Author: Test <Temail>
+Date:   Wed Sep 24 19:48:19 2025 +0300
+
+    First commit
